@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "c93babab5f22a1525d3283f7b8acfa07"
+API_KEY = "API_KEY"
 
 
 def get_data(place, forecast_days=None):
@@ -13,5 +13,4 @@ def get_data(place, forecast_days=None):
     return filtered_data
 
 
-if __name__ == "__main__":
-    get_data(place="Tokyo", forecast_days=3)
+
