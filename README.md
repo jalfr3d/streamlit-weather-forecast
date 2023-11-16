@@ -51,3 +51,6 @@ You'll also need to obtain an API key from [OpenWeatherMap](https://openweatherm
 - This web app provides a simple yet powerful way to check the weather forecast for any location worldwide.
 
 That's it! Enjoy using the Weather Forecast Web App to stay informed about the weather conditions in any city.
+
+### License
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
